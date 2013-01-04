@@ -1,4 +1,4 @@
 baliweekly
 ==========
 
-Bali Weekly
+Bali Weekly website
